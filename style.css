@@ -1,0 +1,36 @@
+body{
+  background-image:url("https://www.thelabmiami.com/wp-content/uploads/2017/12/net.jpg");
+}
+div{
+  background-color: white;
+ width:50%;
+ margin:0 auto;
+ display:block;
+ border:solid black 1px;
+
+}
+img{
+  width: 500px;
+
+}
+#begin{
+  margin:0 auto;
+  display:block;
+  height:50px;
+  width:500px;
+background-color:blue;
+}
+h1{
+text-align:center;
+border:solid black 1px;
+}
+#save{
+  margin:0 auto;
+  display:block;
+  height:50px;
+  width:200px;
+background-color:green;
+}
+#lock{
+  display:none;
+}
