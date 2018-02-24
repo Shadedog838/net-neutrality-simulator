@@ -20,6 +20,13 @@ for (var count=0; count< links.length; count ++){
 
 
 });
+document.querySelector('#show').style.display='none';
+
+document.querySelector('#save').addEventListener('click', function() {
+  document.querySelector('#show').style.display='inline-block';
+  document.querySelector('#show').style.textAlign='center';
+
+});
 
   var numberSupport=0;
 

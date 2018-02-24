@@ -60,7 +60,14 @@ background-color:green;
 .support{
   color: blue;
 }
-span{
+
+
+
+
+}
+#show{
+  display:block;
+  border:solid black 1px;
 
 
 }
